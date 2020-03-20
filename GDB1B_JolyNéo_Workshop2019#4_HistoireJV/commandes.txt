@@ -1,0 +1,13 @@
+Pong :
+
+Joueur 1 (droite) >> Haut = Flèche du Haut
+                     Bas  = Flèche du Bas
+Joueur 2 (gauche) >> Haut = Z
+                     Bas  = S
+
+
+
+Breakout :
+
+Gauche = Flèche de Gauche
+Droite = Flèche de Droite
